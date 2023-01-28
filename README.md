@@ -1,3 +1,5 @@
+## Fork to use it with custom background and home icon on Vencord
+
 <p align="center">
 <img src = "https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/image/header.jpg">
 </p>
